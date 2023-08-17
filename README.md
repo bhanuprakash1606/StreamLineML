@@ -16,10 +16,10 @@ Welcome to **StreamlineML**, your all-in-one solution for automated machine lear
 
 ## Getting Started
 
-1. **Installation**: Make sure you have Python installed on your system. Create a virtual environment for your project and install the required packages using the following command: pip install streamlit pycaret
+1. **Installation**: Make sure you have Python installed on your system. Create a virtual environment for your project and install the required packages using the following command: <e>pip install streamlit pycaret</e>
 2. **Clone Repository**: Clone the StreamlineML repository to your local machine: git clone https://github.com/bhanuprakash1606/streamlineml.git
 3. **Upload Your Dataset**: Place your dataset in the designated folder within the repository.
 4. **Run StreamlineML**: Navigate to the repository's root directory and run the Streamlit app:
-   cd streamlineml
-   streamlit run app.py
+   <e>cd streamlineml</e>
+   <e>streamlit run app.py</e>
 5. **Interact with the Dashboard**: Access the StreamlineML dashboard in your web browser. Upload your dataset, explore profiling results, run automated machine learning experiments, and download reports.
