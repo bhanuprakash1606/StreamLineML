@@ -1,39 +1,35 @@
-AutoML using Python, PyCaret, and Streamlit
+# AutoML using Python, PyCaret, and Streamlit
 
-AutoML
+Welcome to **StreamlineML**, your all-in-one solution for automated machine learning (AutoML) using Python, PyCaret, and Streamlit! With StreamlineML, you can effortlessly upload datasets, generate comprehensive profiles, perform machine learning experiments, and download insightful reports.
 
-Welcome to StreamlineML, your all-in-one solution for automated machine learning (AutoML) using Python, PyCaret, and Streamlit! With StreamlineML, you can effortlessly upload datasets, generate comprehensive profiles, perform machine learning experiments, and download insightful reports.
-Features
+## Features
 
-    Dataset Upload: StreamlineML makes it easy to upload your datasets, supporting various formats. Just import your data and let the magic begin.
+- **Dataset Upload**: StreamlineML makes it easy to upload your datasets, supporting various formats. Just import your data and let the magic begin.
 
-    Data Profiling: Gain deep insights into your dataset with detailed profiling. Understand data distributions, missing values, correlations, and more to make informed preprocessing decisions.
+- **Data Profiling**: Gain deep insights into your dataset with detailed profiling. Understand data distributions, missing values, correlations, and more to make informed preprocessing decisions.
 
-    Automated Machine Learning: Leverage the power of PyCaret for automated machine learning. StreamlineML automates model selection, hyperparameter tuning, and ensemble creation, freeing you from manual trial and error.
+- **Automated Machine Learning**: Leverage the power of PyCaret for automated machine learning. StreamlineML automates model selection, hyperparameter tuning, and ensemble creation, freeing you from manual trial and error.
 
-    Interactive Dashboard: The Streamlit-based interactive dashboard offers a user-friendly experience. Visualize profiling results, explore model performance metrics, and interact with the data effortlessly.
+- **Interactive Dashboard**: The Streamlit-based interactive dashboard offers a user-friendly experience. Visualize profiling results, explore model performance metrics, and interact with the data effortlessly.
 
-    Downloadable Reports: Generate comprehensive reports summarizing your machine learning experiments. Downloadable in various formats, these reports provide a clear overview of your model's performance and insights into your dataset.
+- **Downloadable Reports**: Generate comprehensive reports summarizing your machine learning experiments. Downloadable in various formats, these reports provide a clear overview of your model's performance and insights into your dataset.
 
-Getting Started
+## Getting Started
 
-    Installation: Make sure you have Python installed on your system. Create a virtual environment for your project and install the required packages using the following command:
+1. **Installation**: Make sure you have Python installed on your system. Create a virtual environment for your project and install the required packages using the following command:
 
 pip install streamlit pycaret
 
-Clone Repository: Clone the StreamlineML repository to your local machine:
+2. **Clone Repository**: Clone the StreamlineML repository to your local machine:
 
-bash
+git clone https://github.com/bhanuprakash1606/streamlineml.git
 
-git clone https://github.com/your-username/streamlineml.git
 
-Upload Your Dataset: Place your dataset in the designated folder within the repository.
+3. **Upload Your Dataset**: Place your dataset in the designated folder within the repository.
 
-Run StreamlineML: Navigate to the repository's root directory and run the Streamlit app:
-
-arduino
+4. **Run StreamlineML**: Navigate to the repository's root directory and run the Streamlit app:
 
 cd streamlineml
 streamlit run app.py
 
-Interact with the Dashboard: Access the StreamlineML dashboard in your web browser. Upload your dataset, explore profiling results, run automated machine learning experiments, and download reports.
+5. **Interact with the Dashboard**: Access the StreamlineML dashboard in your web browser. Upload your dataset, explore profiling results, run automated machine learning experiments, and download reports.
